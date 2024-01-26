@@ -5,4 +5,3 @@ this is only the second part of my project, we have built a robotic arm to perfo
 1. You need to create 2 virtual environments for the deep learning and 2.7.11 python version for the leap motion sdk.
 2. Do not forget to run each environment on a seperated thread.
 
-You can download the Leap motion SDK from the official website:
